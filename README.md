@@ -1,8 +1,8 @@
 # Latte compiler
 ₊̣̇.ෆ˟̑̑˚̑̑˟̑ෆ.₊̣̇.ෆ˟̑̑˚̑̑˟̑ෆ.₊̣̇.ෆ˟̑̑˚̑̑˟̑ෆ.₊̣̇.ෆ˟̑̑˚̑̑˟̑ෆ.₊̣̇..ෆ˟̑̑˚̑̑˟̑ෆ.₊̣̇.ෆ˟̑̑˚̑̑˟̑ෆ.₊̣̇.ෆ˟̑̑˚̑̑˟̑̑˟̑ෆ.₊̣̇.ෆ˟̑̑˚̑*̑˟̑   
-Implementation of a compiler for a simple imperative lenguage Latte
+Implementation of a compiler for a simple imperative language Latte
 
-## Latte lenguage
+## Latte language
 Latte is an imperative language, almost a subset of Java and can be easily translated to it.   
 A Latte program is a sequence of function deﬁnitions. A function definition has a value type, a name, an argument list, and a body consisting of statements.   
    
