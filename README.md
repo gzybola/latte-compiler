@@ -53,7 +53,9 @@ int factr (int n) {
     return (n * factr(n-1)) ; 
 }
 ```
-Full description of requirements: [latte](https://www.mimuw.edu.pl/~ben/Zajecia/Mrj2019/Latte/description.html)
+More valid examples in [good](https://github.com/gzybola/latte-compiler/tree/master/good) directory.   
+To test frontend some examples of incorrect programmes [bad](https://github.com/gzybola/latte-compiler/tree/master/bad)   
+Full description of requirements: [latte](https://www.mimuw.edu.pl/~ben/Zajecia/Mrj2019/Latte/description.html)   
 
 ## Installation
 
